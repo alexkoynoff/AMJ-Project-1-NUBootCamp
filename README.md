@@ -8,23 +8,23 @@ Project Description/Outline:
 
 ●	Compare historical home prices with various other variables to see if there is a correlation impacting the decrease/increase of home values. 
 ●	Questions to answer:
-○	Have home prices increased over time and does higher income generally mean higher home prices?
-■	Information used (state level):
-●	Median home prices
-●	Median household income
-○	 Does count and distance of various data points impact home price?
-■	Data points used (zip code level):
-●	Starbucks 
-●	McDonalds
-●	Airports
-●	Malls
-●	Trailer Parks
-○	 Does demographics impact home prices?
-■	Demographics used (zip code level):
-●	Median age
-●	Poverty rate 
-●	Unemployment rate
-●	People with Bachelor’s Degrees
+○		Have home prices increased over time and does higher income generally mean higher home prices?
+■			Information used (state level):
+●				Median home prices
+●				Median household income
+○	 	Does count and distance of various data points impact home price?
+■			Data points used (zip code level):
+●				Starbucks 
+●				McDonalds
+●				Airports
+●				Malls
+●				Trailer Parks
+○	 	Does demographics impact home prices?
+■				Demographics used (zip code level):
+●				Median age
+●				Poverty rate 
+●				Unemployment rate
+●				People with Bachelor’s Degrees
 
 Data gathering:
 	
